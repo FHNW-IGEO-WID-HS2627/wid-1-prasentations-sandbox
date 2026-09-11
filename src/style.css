@@ -1,0 +1,20 @@
+* {
+  background-color: red;
+  color: white;
+}
+
+div {
+  background-color: blue;
+}
+
+span {
+  background-color: green;
+}
+
+.auswahl1 {
+  background-color: grey;
+}
+
+#id1 {
+  background-color: purple;
+}
